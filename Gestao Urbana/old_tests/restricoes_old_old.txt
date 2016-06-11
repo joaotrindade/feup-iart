@@ -1,0 +1,3 @@
+habitacao 1 0 0 1 1 0 1
+lixeira 0 0 0 1 1 0 0
+recreio 0 0 1 0 0 0 0

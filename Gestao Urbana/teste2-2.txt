@@ -1,0 +1,2 @@
+<SoloEstavel?> <RSolo_Forte> <Estrada?> <REstrada_Forte> <Lago?> <RLago_Forte> <Inclinaçao(1:R,2:N,3:E)> <RInclinaçao_Forte> <Dimensao(1:P,2:M,3:G)> <RDimensao_Forte>
+Casa 0 0 0 0 0 0 0 0 3 0

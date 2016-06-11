@@ -1,0 +1,13 @@
+Cidade1: existem dois lotes de terreno, ambos com solo estavel, inclinacao normal, dimensao media, sem estrada e sem lago. Um tem custo de 100€ o outro de 200€
+
+Teste1-1 (Teste Base): Alocar um lote para uma casa, sem nenhum requesito.
+Resultado Esperado: Lote de Custo 100
+
+Cidade2: existem dois lotes de terreno, ambos com solo estavel, inclinacao normal, sem estrada e sem lago. Um tem custo de 150€ de tem dimensao pequena, o outro de 200€ e dimensao grande
+
+Teste2-1 (Testar Restricoes Fortes): Alocar um lote para uma casa, requesito forte: dimensao grande
+Resultado Esperado: Lote de Custo 200
+
+
+Teste2-1 (Testar restricoes Fracas): Alocar um lote para uma casa, requesito fraca: dimensao grande
+Resultado Esperado: Lote de Custo 200
